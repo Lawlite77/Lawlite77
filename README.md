@@ -96,7 +96,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Lawlite77/Lawlite77/output/snake.svg" alt="Snake animation" />
-
-###
